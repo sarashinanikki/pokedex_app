@@ -4,7 +4,7 @@ services:
         build: 
             context: .
             dockerfile: Dockerfile
-        command: sh -c "yarn install && yarn start"
+        command: sh -c "yarn install && yarn serve"
         ports: 
             - '8080:8080'
         volumes: 
