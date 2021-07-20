@@ -1,6 +1,6 @@
 # ポケモン図鑑画面設計書
 
-![image](./pokedex.assets/design.drawio.png) 
+![image](./pokedex.assets/design.drawio.png)
 
 ## ① ヘッダー
 
